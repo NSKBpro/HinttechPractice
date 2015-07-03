@@ -13,6 +13,8 @@ namespace HinttechPractice
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            //Test provera
         }
     }
 }
