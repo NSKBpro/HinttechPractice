@@ -19,7 +19,7 @@ namespace HinttechPractice.Service
         {
             var newUser = new User
             {
-                Firstname = testModel.Name
+                Firstname = testModel.Name//PROBA 
             };
 
             dataContext.Users.Add(newUser);
